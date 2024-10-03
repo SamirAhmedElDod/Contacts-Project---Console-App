@@ -1,0 +1,6 @@
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+D:\Programming 2024\C#\Contacts Project - Console App\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

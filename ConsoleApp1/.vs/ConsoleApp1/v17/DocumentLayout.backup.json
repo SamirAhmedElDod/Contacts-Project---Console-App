@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D341DE-05DA-4224-9A76-86778F163552}|ConsoleApp1.csproj|d:\\programming 2024\\c#\\contacts project - console app\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D341DE-05DA-4224-9A76-86778F163552}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41AE01F4-ECC4-42A7-A845-7F9EF454898C}|..\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj|d:\\programming 2024\\c#\\contacts project - console app\\contactsbusinesslayer\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0137B1C6-CC50-4D28-A4B9-4A9A7A718B24}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|d:\\programming 2024\\c#\\contacts project - console app\\contactsdataaccesslayer\\contactsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsData.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ContactsDataAccessLayer\\ContactsData.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\ContactsData.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ContactsDataAccessLayer\\ContactsData.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\ContactsData.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAIwMUBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:35:54.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ContactsBusinessLayer\\Contacts.cs",
+              "RelativeDocumentMoniker": "..\\ContactsBusinessLayer\\Contacts.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ContactsBusinessLayer\\Contacts.cs",
+              "RelativeToolTip": "..\\ContactsBusinessLayer\\Contacts.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwNEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:35:12.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\Contacts Project - Console App\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswOsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:34:15.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
